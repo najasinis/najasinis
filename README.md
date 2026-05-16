@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&background=0D111700&center=false&vCenter=true&width=580&lines=Studian+Engineer+with+Product+Ownership;DB+Optimization+%7C+AWS+Infrastructure+%7C+OCI;Hanyang+Univ.+%E2%80%94+Summa+Cum+Laude)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=64D2A4&background=0D111700&center=false&vCenter=true&width=580&lines=Studian+Engineer+with+Product+Ownership;DB+Optimization+%7C+AWS+Infrastructure+%7C+OCI;Hanyang+Univ.+%E2%80%94+Summa+Cum+Laude)](https://git.io/typing-svg)
 
 # 정진영(Jerry Jung)
 
