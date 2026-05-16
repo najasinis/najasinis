@@ -110,11 +110,6 @@ Key finding: index optimization contributed more than application-level parallel
 
 ---
 
-<a href="https://github.com/najasinis">
-  <img src="https://github-readme-stats.vercel.app/api?username=najasinis&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=9e9e9e&icon_color=ffffff&count_private=true" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najasinis&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=9e9e9e" height="155"/>
-</a>
-
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=najasinis&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=9e9e9e&currStreakLabel=9e9e9e&sideLabels=9e9e9e&dates=9e9e9e)](https://git.io/streak-stats)
