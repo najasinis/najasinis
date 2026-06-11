@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=E8A838&background=0D111700&center=false&vCenter=true&width=580&lines=Studian+Engineer+with+Product+Ownership;DB+Optimization+%7C+AWS+Infrastructure+%7C+OCI;)](https://git.io/typing-svg)
 
-# 정진영(Jerry Jung)
+# 정진영(Jerry Jung) 
 
 ---
 
