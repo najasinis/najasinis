@@ -85,7 +85,7 @@ Key finding: index optimization contributed more than application-level parallel
 | 2026 – | Backend Engineer, Superlearning · ClassDay 2.0 (산업기능요원) |
 | 2025.10 – 2025.12 | eoullim — personal project, full-stack MVP |
 | 2025.07 – 2025.09 | Salesforce Developer Intern, DKBMC(주) |
-| 2022 – 2025 | Founder & Tech Lead, Wihan · ₩20M in grants (SK · 홍천군청 등) |
+| 2022 – 2025 | Founder & Tech Lead, Wihan · ₩30M in grants (SK · 홍천군청 등) |
 | 2020 – 2025 | Hanyang University, 창업융합전공 + 정보시스템 |
 
 ### Publications & Recognition
