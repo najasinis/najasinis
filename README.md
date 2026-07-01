@@ -6,7 +6,7 @@
 
 ## About
 
-Seoul-based backend engineer. Graduated **Hanyang University** (창업융합전공 · 정보시스템) with **Summa Cum Laude**, GPA 4.22 / 4.5 — top 1% of department (한양학업최우수상).
+Seoul-based backend engineer. Graduated **Hanyang University** (창업융합전공 · 정보시스템) with **Summa Cum Laude**, GPA 4.22 / 4.5 — top 1% of department (한양학업최우수상, 한양대 총장상).
 
 I work across NestJS API development, PostgreSQL query tuning, and AWS infrastructure. Core interest is measurable performance improvement — not just code that works, but code that's demonstrably faster and cheaper to run.
 
