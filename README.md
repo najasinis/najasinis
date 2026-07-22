@@ -4,7 +4,7 @@
 
 ---
 
-## About
+## About 
 
 Seoul-based backend engineer. Graduated **Hanyang University** (창업융합전공 · 정보시스템) with **Summa Cum Laude**, GPA 4.22 / 4.5 — top 1% of department (한양대 총장상 2회(한양학업최우수상, 졸업우수상)).
 
